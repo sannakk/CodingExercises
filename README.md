@@ -1,1 +1,1 @@
-# codingExercises
+# CodingExercises
